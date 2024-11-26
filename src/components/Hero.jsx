@@ -49,7 +49,7 @@ export const Hero = () => {
                 >
                     <div className="flex flex-col gap-2 sm:flex-row mt-14 mb-24 sm:mb-40 justify-center pb-5">
                         <a
-                            href="https://wa.me/34XXXXXXXXX"
+                            href="https://wa.me/34651407403"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="Contactar por WhatsApp"
